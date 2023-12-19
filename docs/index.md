@@ -3,7 +3,7 @@
 Hi! This is my website.
 
 
-## Contact details
+## Accounts
 *All of the following are personal accounts*  
 Discord: @xyadelaide  
 Github: https://github.com/xyadelaide  
