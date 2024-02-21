@@ -5,7 +5,7 @@ Hi! This is my website.
 
 ## Accounts
 *All of the following are personal accounts*  
-Discord: @xyadelaide
+Discord: @xyadelaide  
 Github: https://github.com/xyadelaide  
 Itch.io: https://xyadelaide.itch.io  
 
