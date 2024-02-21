@@ -10,7 +10,7 @@ Github: https://github.com/xyadelaide
 Itch.io: https://xyadelaide.itch.io  
 
 ## About me
-I live in Aotearoa / New Zealand. I'm interested in Computer Science, Software Development, Politics, History, Game Design (Video Games in general too), and Computer Security.
+I live in Aotearoa / New Zealand. I'm interested in Computer Science, Software Development, Politics, History, Game Design (Video Games in general too), and Computer Security.  
 I am currently studying Computer Science.
 
 ## Video Games that I play
