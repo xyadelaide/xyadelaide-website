@@ -15,7 +15,7 @@ I am currently studying Computer Science.
 
 ## Video Games that I play
 I used to play a lot of HOI4, but I don't really anymore. I'm probably going to play it again one day.  
-I'm a big fan of Sea of Thieves, Space Engineers, EU4, Stellaris, and CIV6. I still play a lot of other games though.
+I'm a big fan of Sea of Thieves, Space Engineers, EU4, Stellaris, and CIV6. I still play a lot of other games though.  
 Currently most of my free time inside is spent rotting on TF2. Doesn't mean I'm good at it though.
 
 ## Languages
